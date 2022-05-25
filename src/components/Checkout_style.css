@@ -1,0 +1,52 @@
+.image>img{
+    height:100%;
+    width:100%;
+}
+.text{
+    padding-left: 10px;
+}
+.price{
+    padding-right: 10px;
+}
+.slides{
+    margin-left: 10px;
+}
+
+
+@media screen and (min-width:0px) and (max-width:375px){
+    .TextDiv{
+        width: 50%;
+        height: 50px;
+        font-size: 15px !important;
+        padding-bottom: 20px;
+    }
+    .ProdDiv>div{
+        font-size: small;
+    }
+    .ProdDiv{
+        height: 50px;
+    }
+    .image>img{
+        height: 50%;
+        width: 100%;
+        margin-top: 50%;
+        align-items: center;
+    }
+    .Data{
+        height: 30px;
+    }
+    .text{
+        padding-left: 10px;
+    }
+    .price{
+        padding-right: 10px;
+    }
+}
+
+@media screen and (min-width:0px) and (max-width:375px){
+    
+}
+
+@media screen and (min-width:0px) and (max-width:375px){
+    
+}
